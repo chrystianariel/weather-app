@@ -2,12 +2,12 @@
 
 Weather application to not be caught under the weather.
 
-## Search for main cities in the world
+## Search for major cities around the world
 
-Layout of the current state of the app.
+View the layout of the current state of the app.
 
 ![Weather App Animated Layout](https://github.com/chrystianariel/weather-app/blob/main/src/Components/Assets/Weather%20App%20Sample.gif)
 
-### Using current weather data
+### Utilizing real-time weather data
 
-To provide real-time weather informations I used the API from https://openweathermap.org
+To provide up-to-date weather information, I have integrated the API from https://openweathermap.org
